@@ -1,4 +1,4 @@
-# SistemasInformacao
+# Sistemas de Informacão
 Trabalhos e Projetos criados durante minha graduação!
 
 Me chamo Andriele Gaudencio, comecei o curso de Sistemas de Informação no segundo semestre de 2022.
